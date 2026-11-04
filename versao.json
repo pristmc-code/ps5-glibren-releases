@@ -1,0 +1,6 @@
+{
+  "versao": "0.6-teste",
+  "notas": "Primeira versao com atualizacao pelo proprio PS5 (versoes assinadas). Internet com SNI; CPU por nucleo e memoria pelos processos; botao Parar payload; telas ajustadas ao PS5.",
+  "tamanho": 546408,
+  "sha256": "2f7d765651edb4b2d9e636588b207635c509e48180c243fb84e65ccdfcaec030"
+}
