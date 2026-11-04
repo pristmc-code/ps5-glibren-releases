@@ -1,6 +1,6 @@
 {
-  "versao": "0.8-teste",
-  "notas": "Janela Apps: instala e atualiza apps homebrew com um clique (YouTube ytps5 e YouTube Max'd com busca). Botao YouTube no PS5 abre o app ja com a busca do jogo.",
-  "tamanho": 651784,
-  "sha256": "64bf5d6cd6fcd63924f507b9a3c99419f6ae1a36d8b5c71ad4b88958c049ee58"
+  "versao": "0.8.1-teste",
+  "notas": "Pagina 'Teste de tela cheia' (link no rodape): testa se o navegador do PS5 aceita tela cheia e grava o resultado no diario.",
+  "tamanho": 659496,
+  "sha256": "2ed0805ce13706a85677c5796eb49486f6b1bd53e87148373700b27f3699d414"
 }
