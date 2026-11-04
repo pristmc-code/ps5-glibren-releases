@@ -1,6 +1,6 @@
 {
-  "versao": "0.6-teste",
-  "notas": "Primeira versao com atualizacao pelo proprio PS5 (versoes assinadas). Internet com SNI; CPU por nucleo e memoria pelos processos; botao Parar payload; telas ajustadas ao PS5.",
-  "tamanho": 546408,
-  "sha256": "2f7d765651edb4b2d9e636588b207635c509e48180c243fb84e65ccdfcaec030"
+  "versao": "0.7-teste",
+  "notas": "Nome, codigo e icone lidos de dentro do arquivo do jogo, sem internet (.pkg, .exfat, .ffpkg, .ffpfs, .ffpfsc); botao de versao sempre visivel; uso total da CPU; diagnostico das capas no diario.",
+  "tamanho": 620072,
+  "sha256": "7fc9b73d984fdd7411bf8caa18087cfbb45bf446755e2f5d5608aa2641ac22fa"
 }
