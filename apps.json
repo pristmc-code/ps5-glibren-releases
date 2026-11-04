@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "id": "ytps5",
+      "titulo": "YouTube (ytps5)",
+      "title_id": "PPSA99350",
+      "versao": "1.0.5-glibren1",
+      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/ytps5-1.0.5-glibren1/PPSA99350.zip",
+      "tamanho": 28811022,
+      "sha256": "f64387dea1f2fdc8fb935ae1c73948a9ca1b5cdcbe3ade2c2093186fd6f068ca",
+      "preservar": [
+        "yt-token.json"
+      ],
+      "busca": "glibren_busca.txt"
+    },
+    {
+      "id": "youtube-maxd",
+      "titulo": "YouTube Max'd",
+      "title_id": "PPSA99991",
+      "versao": "1.5.0-glibren1",
+      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/youtube-maxd-1.5.0-glibren1/PPSA99991.zip",
+      "tamanho": 101824169,
+      "sha256": "edefb0ff294b2720fea3ba5b75cb808471eb4e4dd5886980b55cfc56bdf64b37",
+      "preservar": [],
+      "busca": "glibren_busca.txt"
+    }
+  ]
+}
