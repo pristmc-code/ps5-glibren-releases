@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.1-teste",
-  "notas": "Pagina 'Teste de tela cheia' (link no rodape): testa se o navegador do PS5 aceita tela cheia e grava o resultado no diario.",
-  "tamanho": 659496,
-  "sha256": "2ed0805ce13706a85677c5796eb49486f6b1bd53e87148373700b27f3699d414"
+  "versao": "0.8.2-teste",
+  "notas": "Apps now open (files installed with mode 0777; apps installed by 0.8/0.8.1 are repaired automatically), Uninstall in the Apps window (through ShadowMountPlus), updates now persist after restarting the payload, .exfat.complete keeps its double extension, list: games to rename first, correctly named ones below in alphabetical order.",
+  "tamanho": 679344,
+  "sha256": "bc27f35343b52ba8f92640976e73f787fadea40212fcf9c7e75e2e518def933b"
 }
