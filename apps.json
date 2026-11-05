@@ -17,10 +17,10 @@
       "id": "youtube-maxd",
       "titulo": "YouTube Max'd",
       "title_id": "PPSA99991",
-      "versao": "1.5.0-glibren1",
-      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/youtube-maxd-1.5.0-glibren1/PPSA99991.zip",
-      "tamanho": 101824169,
-      "sha256": "edefb0ff294b2720fea3ba5b75cb808471eb4e4dd5886980b55cfc56bdf64b37",
+      "versao": "1.6.0-glibren1",
+      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/youtube-maxd-1.6.0-glibren1/PPSA99991.zip",
+      "tamanho": 101849499,
+      "sha256": "0f845dc0d07961c3471dc335160e74eb8146f7723c02416a4455be582a214098",
       "preservar": [],
       "busca": "glibren_busca.txt"
     }
