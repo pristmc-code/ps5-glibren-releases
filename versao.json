@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.3-teste",
-  "notas": "Apps window: warns when the PS5 clock is wrong (the YouTube apps can't connect and find no videos) and 'View app log' shows the end of the ytps5 log. Includes everything from 0.8.2.",
-  "tamanho": 698128,
-  "sha256": "3d08be7701424d1f4e78ffb1ecce974b9270cf9bc62e48c1a676d933edab4fd8"
+  "versao": "0.8.4-teste",
+  "notas": "Power button on the page: turn off the PS5 or put it in rest mode (with a confirmation), through the console's own power calls - for when the TV fails. Includes everything from 0.8.3.",
+  "tamanho": 703888,
+  "sha256": "78b370dbfa87063f356a52041e10974535cb748d3e0d1b774ce592cdb5bbeb5f"
 }
