@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.0-teste",
-  "notas": "Jogo ativo mostra tambem em que outras pastas ha copia guardada; botao Topo junto de Copiar/Mover/Ocultar/Excluir.",
-  "tamanho": 737264,
-  "sha256": "5c0bc4825220947a859e7b7c55b82911bc6ce9c091cd3fed56567d319d0b16fe"
+  "versao": "0.9.1-teste",
+  "notas": "Selo nos jogos na fila ou sendo copiados/movidos/excluidos (com %); Ativando quando o destino e pasta do ShadowMount; arquivo ja na fila nao entra de novo.",
+  "tamanho": 741584,
+  "sha256": "8ef04320be6d5f55f427a8068861f2c2d1f4e7897368e57b27bfd329bc7ab232"
 }
