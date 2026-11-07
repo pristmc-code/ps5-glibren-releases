@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.7-teste",
-  "notas": "Pastas marcadas como do ShadowMount e selo em cada jogo (Ativo / Tem copia ativa / So armazenado); Ocultos: arquivos escondidos da lista, recuperaveis no filtro Ocultos; a ordem da lista fica parada depois do Ler pastas (renomear nao move o jogo).",
-  "tamanho": 733600,
-  "sha256": "a78fbf4c85582c10441bb813b6b5315f154c392b17bc8715c7a4ab58f24b925b"
+  "versao": "0.8.8-teste",
+  "notas": "Arquivos .complete (marca de download terminado) vao sozinhos para Ocultos.",
+  "tamanho": 734176,
+  "sha256": "0f2b5a27b05559c707dfc8a4183ce1c5d447c0c307dda233386efb13f16ebb45"
 }
