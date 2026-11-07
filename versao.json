@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.9-teste",
-  "notas": "Botoes Copiar/Mover/Ocultar/Excluir sobem com a tela e ficam presos no topo ao rolar a lista (celular e tela baixa).",
-  "tamanho": 734896,
-  "sha256": "f6bda4808127c6c2da8b102b661446db4c10fcf16e8faf8e08d818ec88102927"
+  "versao": "0.9.0-teste",
+  "notas": "Jogo ativo mostra tambem em que outras pastas ha copia guardada; botao Topo junto de Copiar/Mover/Ocultar/Excluir.",
+  "tamanho": 737264,
+  "sha256": "5c0bc4825220947a859e7b7c55b82911bc6ce9c091cd3fed56567d319d0b16fe"
 }
