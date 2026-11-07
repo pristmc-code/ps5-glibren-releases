@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.5-teste",
-  "notas": "Grafico de temperatura: escala automatica, grade legivel e linhas suavizadas. App Android glibren Controle (tela cheia).",
-  "tamanho": 706624,
-  "sha256": "b8894c1c98f8237853ff99b6ed28871cb428f8ecbea5572e834dd874d8b183e8"
+  "versao": "0.8.6-teste",
+  "notas": "Lista de jogos: ordenar (nome, tamanho, extensao), filtros (PS4, PS5, exFAT, pkg) e escolha de pasta.",
+  "tamanho": 721920,
+  "sha256": "a4c404e2e17f28c20250c36a9ed7b9f76f7c339a4a3522c35a7e196d5172322c"
 }
