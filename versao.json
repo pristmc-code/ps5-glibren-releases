@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.4-teste",
-  "notas": "Power button on the page: turn off the PS5 or put it in rest mode (with a confirmation), through the console's own power calls - for when the TV fails. Includes everything from 0.8.3.",
-  "tamanho": 703888,
-  "sha256": "78b370dbfa87063f356a52041e10974535cb748d3e0d1b774ce592cdb5bbeb5f"
+  "versao": "0.8.5-teste",
+  "notas": "Grafico de temperatura: escala automatica, grade legivel e linhas suavizadas. App Android glibren Controle (tela cheia).",
+  "tamanho": 706624,
+  "sha256": "b8894c1c98f8237853ff99b6ed28871cb428f8ecbea5572e834dd874d8b183e8"
 }
