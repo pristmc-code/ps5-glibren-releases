@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.8-teste",
-  "notas": "Arquivos .complete (marca de download terminado) vao sozinhos para Ocultos.",
-  "tamanho": 734176,
-  "sha256": "0f2b5a27b05559c707dfc8a4183ce1c5d447c0c307dda233386efb13f16ebb45"
+  "versao": "0.8.9-teste",
+  "notas": "Botoes Copiar/Mover/Ocultar/Excluir sobem com a tela e ficam presos no topo ao rolar a lista (celular e tela baixa).",
+  "tamanho": 734896,
+  "sha256": "f6bda4808127c6c2da8b102b661446db4c10fcf16e8faf8e08d818ec88102927"
 }
