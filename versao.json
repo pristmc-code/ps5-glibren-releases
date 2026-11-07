@@ -1,6 +1,6 @@
 {
-  "versao": "0.8.6-teste",
-  "notas": "Lista de jogos: ordenar (nome, tamanho, extensao), filtros (PS4, PS5, exFAT, pkg) e escolha de pasta.",
-  "tamanho": 721920,
-  "sha256": "a4c404e2e17f28c20250c36a9ed7b9f76f7c339a4a3522c35a7e196d5172322c"
+  "versao": "0.8.7-teste",
+  "notas": "Pastas marcadas como do ShadowMount e selo em cada jogo (Ativo / Tem copia ativa / So armazenado); Ocultos: arquivos escondidos da lista, recuperaveis no filtro Ocultos; a ordem da lista fica parada depois do Ler pastas (renomear nao move o jogo).",
+  "tamanho": 733600,
+  "sha256": "a78fbf4c85582c10441bb813b6b5315f154c392b17bc8715c7a4ab58f24b925b"
 }
