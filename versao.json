@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.1-teste",
-  "notas": "Selo nos jogos na fila ou sendo copiados/movidos/excluidos (com %); Ativando quando o destino e pasta do ShadowMount; arquivo ja na fila nao entra de novo.",
-  "tamanho": 741584,
-  "sha256": "8ef04320be6d5f55f427a8068861f2c2d1f4e7897368e57b27bfd329bc7ab232"
+  "versao": "0.9.2-teste",
+  "notas": "Filtro Ativos / So armazenados (pastas do ShadowMount) na lista; arquivos .complete agora podem ser mostrados (botao Mostrar, na linha e em lote) e devolvidos aos ocultos automaticos com Ocultar.",
+  "tamanho": 746664,
+  "sha256": "a12677407e3dae330509b2604b13092888795e14c3b7fef43d6319a6db644b97"
 }
