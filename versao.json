@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.3-teste",
-  "notas": "Relogio do PS5 pela internet: confere ao abrir, a cada 6 h e depois do repouso (NTP + HTTPS) e acerta sozinho quando as fontes concordam; cartao Relogio na pagina Temperatura. Le a porta da API do ShadowMountPlus no formato novo (v2) do config.ini.",
-  "tamanho": 756520,
-  "sha256": "529a66d520cc502c82001408efb4e0e24af1c4232f57fb9dd306d309080b23ff"
+  "versao": "0.9.4-teste",
+  "notas": "Botao ATIVAR: um jogo so armazenado e copiado sozinho para a pasta do ShadowMount com mais espaco livre (com folga de 512 MB), sem escolher a pasta; a linha mostra Ativando e o painel Atividade a copia. Mensagem clara quando nao ha espaco ou pasta marcada.",
+  "tamanho": 778776,
+  "sha256": "b3eeb45540235568535d21b31b2ad74d8d89fbccede4682283b47944de74df40"
 }
