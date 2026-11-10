@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.2-teste",
-  "notas": "Filtro Ativos / So armazenados (pastas do ShadowMount) na lista; arquivos .complete agora podem ser mostrados (botao Mostrar, na linha e em lote) e devolvidos aos ocultos automaticos com Ocultar.",
-  "tamanho": 746664,
-  "sha256": "a12677407e3dae330509b2604b13092888795e14c3b7fef43d6319a6db644b97"
+  "versao": "0.9.3-teste",
+  "notas": "Relogio do PS5 pela internet: confere ao abrir, a cada 6 h e depois do repouso (NTP + HTTPS) e acerta sozinho quando as fontes concordam; cartao Relogio na pagina Temperatura. Le a porta da API do ShadowMountPlus no formato novo (v2) do config.ini.",
+  "tamanho": 756520,
+  "sha256": "529a66d520cc502c82001408efb4e0e24af1c4232f57fb9dd306d309080b23ff"
 }
