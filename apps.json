@@ -4,10 +4,10 @@
       "id": "ytps5",
       "titulo": "YouTube (ytps5)",
       "title_id": "PPSA99350",
-      "versao": "1.0.5-glibren1",
-      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/ytps5-1.0.5-glibren1/PPSA99350.zip",
-      "tamanho": 28811022,
-      "sha256": "f64387dea1f2fdc8fb935ae1c73948a9ca1b5cdcbe3ade2c2093186fd6f068ca",
+      "versao": "1.0.5-glibren2",
+      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/ytps5-1.0.5-glibren2/PPSA99350.zip",
+      "tamanho": 28812561,
+      "sha256": "8e0fa3427fe4cfc6fc253e81d524fc7aef5f32de2fec3c256c114423bd5b182b",
       "preservar": [
         "yt-token.json"
       ],
@@ -17,10 +17,10 @@
       "id": "youtube-maxd",
       "titulo": "YouTube Max'd",
       "title_id": "PPSA99991",
-      "versao": "1.6.0-glibren1",
-      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/youtube-maxd-1.6.0-glibren1/PPSA99991.zip",
-      "tamanho": 101849499,
-      "sha256": "0f845dc0d07961c3471dc335160e74eb8146f7723c02416a4455be582a214098",
+      "versao": "1.6.0-glibren2",
+      "url": "https://github.com/pristmc-code/ps5-glibren-releases/releases/download/youtube-maxd-1.6.0-glibren2/PPSA99991.zip",
+      "tamanho": 101853572,
+      "sha256": "5b8ba6ec8aac13f4dca4fe57df6c20228e3372b0e16da8c05bee159b4a033c23",
       "preservar": [],
       "busca": "glibren_busca.txt"
     }
