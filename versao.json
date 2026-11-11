@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.4-teste",
-  "notas": "Botao ATIVAR: um jogo so armazenado e copiado sozinho para a pasta do ShadowMount com mais espaco livre (com folga de 512 MB), sem escolher a pasta; a linha mostra Ativando e o painel Atividade a copia. Mensagem clara quando nao ha espaco ou pasta marcada.",
-  "tamanho": 778776,
-  "sha256": "b3eeb45540235568535d21b31b2ad74d8d89fbccede4682283b47944de74df40"
+  "versao": "0.9.5-teste",
+  "notas": "YouTube na janela Apps: abre o YouTube Max'd (1.6.0-glibren3) na busca e o Max'd volta ao glibren pelo Circulo; com app de jogo aberto (ex.: Jobe) avisa em vez de abrir por cima. POST /launch local reabre o app depois que o outro fechar.",
+  "tamanho": 783568,
+  "sha256": "eff111aa00d95f196cdead6337d4748924142bf56863c990f7c37c2bd7739a5b"
 }
