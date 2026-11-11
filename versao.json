@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.5-teste",
-  "notas": "YouTube na janela Apps: abre o YouTube Max'd (1.6.0-glibren3) na busca e o Max'd volta ao glibren pelo Circulo; com app de jogo aberto (ex.: Jobe) avisa em vez de abrir por cima. POST /launch local reabre o app depois que o outro fechar.",
-  "tamanho": 783568,
-  "sha256": "eff111aa00d95f196cdead6337d4748924142bf56863c990f7c37c2bd7739a5b"
+  "versao": "0.9.6-teste",
+  "notas": "YouTube abre na Jobee'sLair (glibren.35+) quando ela anuncia (jobe-tube.txt): o quadro YouTube e o YouTube de cada jogo gravam a busca em /data/JobeesLair/tube/abrir.txt (com voltar=PMGL00001) e abrem a Jobee'sLair na tela do YouTube; o Circulo la volta ao glibren. Uma linha sob a busca diz onde abre. Sem ela, YouTube Max'd como antes; nunca por cima de um app de jogo aberto.",
+  "tamanho": 785552,
+  "sha256": "73af89b9578e439d491e50171967314943f09aad6d27fb5130d8e2017b4b908b"
 }
