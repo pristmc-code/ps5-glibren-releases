@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.14-teste",
-  "notas": "FPS do jogo aberto (teste): pagina /fps so no celular/PC, le o contador da tela (/dev/dce) so enquanto a pagina esta aberta",
-  "tamanho": 883416,
-  "sha256": "f0db1562762eddcc517d8e74b8a332fc4def2a6d4bd890857c3fe4982af64e0a",
-  "commit": "79baab07294cd276d5d3b4798d8f6180a1cbe3cb"
+  "versao": "0.9.15-teste",
+  "notas": "Pagina de FPS (teste) com capa e nome do jogo em destaque; grafico ocupa a tela; aviso de conexao nao apaga mais o nome",
+  "tamanho": 892344,
+  "sha256": "fdcf34234a0e9833b29fc04b8e894fcb1e074c80b16fb84d859b9a3c96b90ae1",
+  "commit": "6c015c30956b4a274fe7559e7e10ac78801d84d9"
 }
