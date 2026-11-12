@@ -1,6 +1,7 @@
 {
-  "versao": "0.9.9-teste",
-  "notas": "Teste: SSD na gaveta USB agora tenta dois metodos (Realtek RTL9210 e o pedido padrao de temperatura); o botao Ler da pagina Temperatura lista os canais 0 a 15 do sensor do PS5 para achar o SSD interno e o slot de expansao.",
-  "tamanho": 794528,
-  "sha256": "b6f8b5db979c45b7fc0a7014bc0936d42fdb9ef15c8e32e7256996bac95210df"
+  "versao": "0.9.10-teste",
+  "notas": "Copiar, mover e excluir mais seguros: a copia vai para o disco (fsync) antes de apagar a origem ao mover; sobras de copia interrompida sao limpas; arquivos em download nao sao copiados/movidos; acoes so nos arquivos visiveis na lista; cada recusa diz o motivo; a lista e relida depois de excluir. Botao Ler do SSD USB so manda o comando Realtek a gaveta Realtek e nunca com copia rodando. Busca acha nomes com pontuacao.",
+  "tamanho": 802584,
+  "sha256": "5c3ed9ecc2f1533b8ccb895658d1e756139a94e6c79a7e55cf31cd50c3dbe0bd",
+  "commit": "a1f9542f0b29069ae2b91158873730c4313081eb"
 }
