@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.10-teste",
-  "notas": "Copiar, mover e excluir mais seguros: a copia vai para o disco (fsync) antes de apagar a origem ao mover; sobras de copia interrompida sao limpas; arquivos em download nao sao copiados/movidos; acoes so nos arquivos visiveis na lista; cada recusa diz o motivo; a lista e relida depois de excluir. Botao Ler do SSD USB so manda o comando Realtek a gaveta Realtek e nunca com copia rodando. Busca acha nomes com pontuacao.",
-  "tamanho": 802584,
-  "sha256": "5c3ed9ecc2f1533b8ccb895658d1e756139a94e6c79a7e55cf31cd50c3dbe0bd",
-  "commit": "a1f9542f0b29069ae2b91158873730c4313081eb"
+  "versao": "0.9.11-teste",
+  "notas": "Corrige a pagina Temperatura no celular: desde a 0.9.8 ela saia da tela e cortava a temperatura e a ventoinha. Com o celular deitado, o cartao do SSD USB vai para a coluna da esquerda e o grafico volta a ter espaco.",
+  "tamanho": 803032,
+  "sha256": "42f141dc1062d7f02988f00c74c3765fc6c77eb422dde8b3039254a9c9126577",
+  "commit": "7a3bf27da5a11b9b7b3f41bc2b61083a561ee384"
 }
