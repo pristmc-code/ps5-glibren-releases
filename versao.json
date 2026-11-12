@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.7-teste",
-  "notas": "Busca de jogo por nome ou codigo: campo no topo da barra Ordenar/Filtros (no celular, a primeira linha). Filtra na hora pelo nome do arquivo, nome certo, codigo PPSA/CUSA ou nome da base; todas as palavras, sem diferenca de acento e maiuscula.",
-  "tamanho": 789856,
-  "sha256": "78642c0feddb04a43091cfb2e72761eaece3314fb9ac196490f809bd3606ea03"
+  "versao": "0.9.8-teste",
+  "notas": "Teste: temperatura do SSD NVMe na gaveta USB (chip Realtek RTL9210), botao Ler na pagina Temperatura (so leitura; resultado em Detalhes e no log). O mesmo botao lista os canais do sensor do PS5 para separar SSD interno e slot de expansao.",
+  "tamanho": 794496,
+  "sha256": "2904bdcf7754f74fabc85e9d8098921462411aca20ced63b92d2f810fa5cec49"
 }
