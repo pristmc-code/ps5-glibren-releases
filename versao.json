@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.13-teste",
-  "notas": "Interface: botoes que nao somem, Cancelar todas, erros traduzidos, toque maior no celular, Temperatura cabe deitada e sem ventoinha repetida",
-  "tamanho": 850616,
-  "sha256": "6cccf6029c9e7adbdffeaaf77f9a3034d6302dc43a04d9e83fd1567915270e1d",
-  "commit": "3cd04d7c1ff9d2221aa610e6239e2f44c39ec304"
+  "versao": "0.9.14-teste",
+  "notas": "FPS do jogo aberto (teste): pagina /fps so no celular/PC, le o contador da tela (/dev/dce) so enquanto a pagina esta aberta",
+  "tamanho": 883416,
+  "sha256": "f0db1562762eddcc517d8e74b8a332fc4def2a6d4bd890857c3fe4982af64e0a",
+  "commit": "79baab07294cd276d5d3b4798d8f6180a1cbe3cb"
 }
