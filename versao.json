@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.12-teste",
-  "notas": "Atualizacao e rede mais seguras: sem volta para versao antiga, versao que nao sobe vira .ruim, atualizar espera as tarefas, Host e pastas conferidos",
-  "tamanho": 822184,
-  "sha256": "4c0a7af199cbdee726ca385f92cc0314984a37e938aa665e70fdde4a9400a415",
-  "commit": "521cec37685945cffb6acab68f52bbbee8d2584f"
+  "versao": "0.9.13-teste",
+  "notas": "Interface: botoes que nao somem, Cancelar todas, erros traduzidos, toque maior no celular, Temperatura cabe deitada e sem ventoinha repetida",
+  "tamanho": 850616,
+  "sha256": "6cccf6029c9e7adbdffeaaf77f9a3034d6302dc43a04d9e83fd1567915270e1d",
+  "commit": "3cd04d7c1ff9d2221aa610e6239e2f44c39ec304"
 }
