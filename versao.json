@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.8-teste",
-  "notas": "Teste: temperatura do SSD NVMe na gaveta USB (chip Realtek RTL9210), botao Ler na pagina Temperatura (so leitura; resultado em Detalhes e no log). O mesmo botao lista os canais do sensor do PS5 para separar SSD interno e slot de expansao.",
-  "tamanho": 794496,
-  "sha256": "2904bdcf7754f74fabc85e9d8098921462411aca20ced63b92d2f810fa5cec49"
+  "versao": "0.9.9-teste",
+  "notas": "Teste: SSD na gaveta USB agora tenta dois metodos (Realtek RTL9210 e o pedido padrao de temperatura); o botao Ler da pagina Temperatura lista os canais 0 a 15 do sensor do PS5 para achar o SSD interno e o slot de expansao.",
+  "tamanho": 794528,
+  "sha256": "b6f8b5db979c45b7fc0a7014bc0936d42fdb9ef15c8e32e7256996bac95210df"
 }
