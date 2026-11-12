@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.11-teste",
-  "notas": "Corrige a pagina Temperatura no celular: desde a 0.9.8 ela saia da tela e cortava a temperatura e a ventoinha. Com o celular deitado, o cartao do SSD USB vai para a coluna da esquerda e o grafico volta a ter espaco.",
-  "tamanho": 803032,
-  "sha256": "42f141dc1062d7f02988f00c74c3765fc6c77eb422dde8b3039254a9c9126577",
-  "commit": "7a3bf27da5a11b9b7b3f41bc2b61083a561ee384"
+  "versao": "0.9.12-teste",
+  "notas": "Atualizacao e rede mais seguras: sem volta para versao antiga, versao que nao sobe vira .ruim, atualizar espera as tarefas, Host e pastas conferidos",
+  "tamanho": 822184,
+  "sha256": "4c0a7af199cbdee726ca385f92cc0314984a37e938aa665e70fdde4a9400a415",
+  "commit": "521cec37685945cffb6acab68f52bbbee8d2584f"
 }
