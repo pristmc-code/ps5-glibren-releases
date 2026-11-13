@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.18-teste",
-  "notas": "0.9.18-teste: Cheats Fase 1 - ligar e desligar as cheats do jogo aberto pelo celular (com os bytes originais guardados, leitura de volta e restauracao ao desligar/fechar); resumo dos trechos por tipo.",
-  "tamanho": 1127128,
-  "sha256": "fd15ee707e468ac8476c503c81314d09733919e190db6e2b55b6805d57dd0092",
-  "commit": "58c2c6361e164d9f9ea152d80fee4e925607c568"
+  "versao": "0.9.19-teste",
+  "notas": "Telas sem texto cortado (quebra de linha), botoes da mesma fileira com a mesma largura, Temperatura AVANCADO cabendo sem rolar em 360x780, 780x360 e 1280x800",
+  "tamanho": 1139640,
+  "sha256": "2f9e7dc38b0822d6c629d54907715585ff17a6d24b525d6ce2c42fe1b42f4c35",
+  "commit": "2edcbf4b3b5da2e6838bff43d8cebd04969193a1"
 }
