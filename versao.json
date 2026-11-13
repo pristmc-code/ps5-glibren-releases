@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.15-teste",
-  "notas": "Pagina de FPS (teste) com capa e nome do jogo em destaque; grafico ocupa a tela; aviso de conexao nao apaga mais o nome",
-  "tamanho": 892344,
-  "sha256": "fdcf34234a0e9833b29fc04b8e894fcb1e074c80b16fb84d859b9a3c96b90ae1",
-  "commit": "6c015c30956b4a274fe7559e7e10ac78801d84d9"
+  "versao": "0.9.16-teste",
+  "notas": "0.9.16-teste: pareamento por codigo na TV (acoes de apagar/mover/renomear/atualizar/ejetar/ativar/trocar de app pedem aparelho pareado; leitura livre; o PS5 continua livre), ejetar USB com seguranca, consumo do chip em W, watchdog das chamadas do sistema, primeiro plano pelo kern.msgbuf na troca de app, DNS robusto (UDP/TCP/DoH) e atalhos com a mesma largura. Nao testado no PS5.",
+  "tamanho": 987680,
+  "sha256": "6f4c5b7ffb97acd09091a1fb3c0cfe3286f3aa094823ba067ae0193e7c411658",
+  "commit": "8cf3e38839521f49f38166df3df6199103d676f5"
 }
