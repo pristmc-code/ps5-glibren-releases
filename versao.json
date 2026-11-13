@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.16-teste",
-  "notas": "0.9.16-teste: pareamento por codigo na TV (acoes de apagar/mover/renomear/atualizar/ejetar/ativar/trocar de app pedem aparelho pareado; leitura livre; o PS5 continua livre), ejetar USB com seguranca, consumo do chip em W, watchdog das chamadas do sistema, primeiro plano pelo kern.msgbuf na troca de app, DNS robusto (UDP/TCP/DoH) e atalhos com a mesma largura. Nao testado no PS5.",
-  "tamanho": 987680,
-  "sha256": "6f4c5b7ffb97acd09091a1fb3c0cfe3286f3aa094823ba067ae0193e7c411658",
-  "commit": "8cf3e38839521f49f38166df3df6199103d676f5"
+  "versao": "0.9.17-teste",
+  "notas": "0.9.17-teste: pagina de Cheats (Fase 0, SO LEITURA: mostra o jogo aberto, as cheats do catalogo HEN-Cheats-Collection para a versao instalada e le os bytes atuais da memoria do jogo, sem gravar nada; so no celular/PC; baixar o catalogo pede o pareamento), atalho para Cheats na tela principal e na pagina de FPS, Temperatura cabendo em 360x780 com o SSD USB e em 1280x800, atalhos da Internet com a mesma largura. Nao testado no PS5.",
+  "tamanho": 1068136,
+  "sha256": "e9eb845f3efbdca7feff1ca763b412e79742cc8915f91d1191d74697d8b2b16e",
+  "commit": "dac4db8c0e659b0810273f406cbb263fff6e08eb"
 }
