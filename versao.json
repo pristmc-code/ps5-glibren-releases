@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.22-teste",
-  "notas": "PrefBar nos payloads de teste (com configuracao pelo celular e sem misturar com a tela cheia) e numeros novos na Temperatura e no FPS: MHz da CPU e da GPU, RAM e VRAM, uso por nucleo, 1% low e pior quadro.",
-  "tamanho": 1311648,
-  "sha256": "5ea5c44741feac708832f2e774262f240d1e4abf6d3316a5e56eef6b16458cfc",
-  "commit": "0d25a9cc9a74a2a8c2e89928eee99a60edc991c6"
+  "versao": "0.9.23-teste",
+  "notas": "Cheats Fase 2: .shn e .mc4 ligam e desligam pelo celular (.xml do Illusion so leitura); diagnostico tenta cada arquivo 3 vezes e nao esconde mais os sha256 publicos; tela cheia confirmada no PS5 Pro 12.00",
+  "tamanho": 1370400,
+  "sha256": "626b189f1b227d94845725331c07b2552342871b0978e2406def1b1f5739ef3d",
+  "commit": "2b8b517552098794c59a00cbf22b77c6d7ca0a8e"
 }
