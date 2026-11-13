@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.20-teste",
-  "notas": "Payloads de teste com um toque (lista fixa, SHA-256 conferido) e botao Tela cheia no navegador do PS5 (ps5-web-browser-fullscreen v0.1b de owendswang)",
-  "tamanho": 1186232,
-  "sha256": "701e6a6a9de0aa6858c59ddb099349a38c09ebfba1b6434921ed42ff960051fa",
-  "commit": "8ae9995c8cae2d3ca975e313355e2a69f8d69709"
+  "versao": "0.9.21-teste",
+  "notas": "Enviar diagnostico para o GitHub pelo celular (usa a chave que a Jobe ja guardou ou uma colada na pagina; arquivos higienizados; reserva em .zip)",
+  "tamanho": 1242592,
+  "sha256": "c57d753e436d56b6b576f6f68f55166bd5c2e0856dcffefa7f33d1a4a8bcdbcc",
+  "commit": "c4e54fe768bcba25a0d6d9e6550c5226b194ba0c"
 }
