@@ -1,7 +1,7 @@
 {
-  "versao": "0.9.21-teste",
-  "notas": "Enviar diagnostico para o GitHub pelo celular (usa a chave que a Jobe ja guardou ou uma colada na pagina; arquivos higienizados; reserva em .zip)",
-  "tamanho": 1242592,
-  "sha256": "c57d753e436d56b6b576f6f68f55166bd5c2e0856dcffefa7f33d1a4a8bcdbcc",
-  "commit": "c4e54fe768bcba25a0d6d9e6550c5226b194ba0c"
+  "versao": "0.9.22-teste",
+  "notas": "PrefBar nos payloads de teste (com configuracao pelo celular e sem misturar com a tela cheia) e numeros novos na Temperatura e no FPS: MHz da CPU e da GPU, RAM e VRAM, uso por nucleo, 1% low e pior quadro.",
+  "tamanho": 1311648,
+  "sha256": "5ea5c44741feac708832f2e774262f240d1e4abf6d3316a5e56eef6b16458cfc",
+  "commit": "0d25a9cc9a74a2a8c2e89928eee99a60edc991c6"
 }
