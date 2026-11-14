@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.26-teste",
-  "notas": "Cheats .xml (Illusion) ligam e desligam guardando os bytes originais (padrao achado uma vez); area extra so execucao (--x) conta como nao da para ligar",
-  "tamanho": 1386384,
-  "sha256": "744ddecc56adba1bd884489eaece2722707c27de4a82ff3ad443df96618d4e60",
-  "commit": "e75a8c9fff2e80f24d760d8b4fa14c6bb4254dd5",
-  "commit_fonte": "eb109ebd04d9bc3d5741ebb17cbf2e6a77048fe0"
+  "versao": "0.9.27-teste",
+  "notas": "Ligar o payload da Jobe (downloads) sem abrir o app: botao na pagina Payloads que confere a assinatura da Jobe antes de enviar, status no ar/fora do ar e como colocar no autoloader. Corrige a pagina Payloads, que nao abria desde a 0.9.23.",
+  "tamanho": 1434720,
+  "sha256": "195051d6a3d048344a0ed6393eb2084d294f28fd1d8b64743ec75cbc8770e595",
+  "commit": "19c1a4c860b322132fb66475169d14a1619aad65",
+  "commit_fonte": "555f566f1f8bca001fd13d3a192e2f16910364d6"
 }
