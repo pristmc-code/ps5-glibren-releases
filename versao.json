@@ -1,7 +1,8 @@
 {
-  "versao": "0.9.23-teste",
-  "notas": "Cheats Fase 2: .shn e .mc4 ligam e desligam pelo celular (.xml do Illusion so leitura); diagnostico tenta cada arquivo 3 vezes e nao esconde mais os sha256 publicos; tela cheia confirmada no PS5 Pro 12.00",
-  "tamanho": 1370400,
-  "sha256": "626b189f1b227d94845725331c07b2552342871b0978e2406def1b1f5739ef3d",
-  "commit": "2b8b517552098794c59a00cbf22b77c6d7ca0a8e"
+  "versao": "0.9.24-teste",
+  "notas": "Atualizacao pelo botao baixa do commit fixo do repositorio publico (o cache do GitHub nao mistura mais versoes), confere tamanho e sha256, tenta de novo e explica quando o servidor ainda esta se atualizando. Novo: Abrir no navegador do PS5 pelo celular (Apps: Jobe web, Jobe /teste, glibren) e atalhos Jobe web e Jobe /teste na tela do glibren no PS5. Quem esta na 0.9.23 ou antes: se aparecer 'nao e a anunciada', tente de novo em alguns minutos",
+  "tamanho": 1377216,
+  "sha256": "149be0b5457617e748531dedc73693500af1fb0c7a5fe3e648101ec40bed13cd",
+  "commit": "5b1587f7a791520ecdfba928eea2d87ee140f023",
+  "commit_fonte": "154887e821e468d4476c5b3fe08e1236183b9731"
 }
