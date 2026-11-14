@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.25-teste",
-  "notas": "Novo na pagina Cheats: chave Area extra (teste) no fim da lista para ligar e desligar o modo de teste da area extra pelo celular (antes so pelo config.ini). Com ela ligada, cada cheat de area extra mostra a protecao do trecho (r-x = pode ligar). Desligar a chave com uma cheat de area extra ligada e recusado: desligue a cheat antes.",
-  "tamanho": 1383776,
-  "sha256": "d5a4b85c65eac81a494ab2edd6691a726f271330a6a23ecd1e86c3206a612487",
-  "commit": "1a33bae652e5b1fbe548dc5ea95342bf017acec8",
-  "commit_fonte": "64ab3f3b9cdbbfde92fe026fd34fd37ae7006233"
+  "versao": "0.9.26-teste",
+  "notas": "Cheats .xml (Illusion) ligam e desligam guardando os bytes originais (padrao achado uma vez); area extra so execucao (--x) conta como nao da para ligar",
+  "tamanho": 1386384,
+  "sha256": "744ddecc56adba1bd884489eaece2722707c27de4a82ff3ad443df96618d4e60",
+  "commit": "e75a8c9fff2e80f24d760d8b4fa14c6bb4254dd5",
+  "commit_fonte": "eb109ebd04d9bc3d5741ebb17cbf2e6a77048fe0"
 }
