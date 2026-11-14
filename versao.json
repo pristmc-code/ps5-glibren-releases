@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.24-teste",
-  "notas": "Atualizacao pelo botao baixa do commit fixo do repositorio publico (o cache do GitHub nao mistura mais versoes), confere tamanho e sha256, tenta de novo e explica quando o servidor ainda esta se atualizando. Novo: Abrir no navegador do PS5 pelo celular (Apps: Jobe web, Jobe /teste, glibren) e atalhos Jobe web e Jobe /teste na tela do glibren no PS5. Quem esta na 0.9.23 ou antes: se aparecer 'nao e a anunciada', tente de novo em alguns minutos",
-  "tamanho": 1377216,
-  "sha256": "149be0b5457617e748531dedc73693500af1fb0c7a5fe3e648101ec40bed13cd",
-  "commit": "5b1587f7a791520ecdfba928eea2d87ee140f023",
-  "commit_fonte": "154887e821e468d4476c5b3fe08e1236183b9731"
+  "versao": "0.9.25-teste",
+  "notas": "Novo na pagina Cheats: chave Area extra (teste) no fim da lista para ligar e desligar o modo de teste da area extra pelo celular (antes so pelo config.ini). Com ela ligada, cada cheat de area extra mostra a protecao do trecho (r-x = pode ligar). Desligar a chave com uma cheat de area extra ligada e recusado: desligue a cheat antes.",
+  "tamanho": 1383776,
+  "sha256": "d5a4b85c65eac81a494ab2edd6691a726f271330a6a23ecd1e86c3206a612487",
+  "commit": "1a33bae652e5b1fbe548dc5ea95342bf017acec8",
+  "commit_fonte": "64ab3f3b9cdbbfde92fe026fd34fd37ae7006233"
 }
