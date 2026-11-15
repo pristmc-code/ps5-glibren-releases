@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.27-teste",
-  "notas": "Ligar o payload da Jobe (downloads) sem abrir o app: botao na pagina Payloads que confere a assinatura da Jobe antes de enviar, status no ar/fora do ar e como colocar no autoloader. Corrige a pagina Payloads, que nao abria desde a 0.9.23.",
-  "tamanho": 1434720,
-  "sha256": "195051d6a3d048344a0ed6393eb2084d294f28fd1d8b64743ec75cbc8770e595",
-  "commit": "19c1a4c860b322132fb66475169d14a1619aad65",
-  "commit_fonte": "555f566f1f8bca001fd13d3a192e2f16910364d6"
+  "versao": "0.9.28-teste",
+  "notas": "0.9.28-teste: sem ordenacao escolhida, a lista de jogos mostra primeiro o que precisa renomear (depois o que nao se renomeia, por ultimo o que ja esta com o nome certo).",
+  "tamanho": 1435104,
+  "sha256": "0e515e2a45c9b7bee247175da435f8951d34ac0e72b4e523cfa42d00fe4cd1c9",
+  "commit": "b94a70a5a79ed8a7c4d76e3127c37aab5cc7d81e",
+  "commit_fonte": "b740f8f857540f9d017bacc7356ef517a68f37e1"
 }
