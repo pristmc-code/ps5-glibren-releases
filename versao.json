@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.30-teste",
-  "notas": "Converter formato pelo PS5 Dump Forge: botao Converter na lista (formato padrao, outro formato ou cancelar), opcao geral do formato padrao com nivel de compressao avancado, filtro por formato (exfat/ffpkg/ffpfs/ffpfsc/pkg) e o Dump Forge na pagina Payloads. Formatos: .exfat, .ffpkg, .ffpfs, .ffpfsc, .pkg (FPKG), pasta, pasta zstd, pasta LZ4 e imagens com zstd. A origem nunca e apagada.",
-  "tamanho": 1487304,
-  "sha256": "e32ab27774d7166d1b7d0ae417f53d68958c93bb3117d50c9400eee09eda6126",
-  "commit": "9dedec9611078b4cd0d851597f0035df95e9fec2",
-  "commit_fonte": "a7ec6d8d8fd6e013d5ba2cd868df0df35052d1b7"
+  "versao": "0.9.31-teste",
+  "notas": "Pastas de jogo e compactados (.zip/.7z/.rar) aparecem na lista para Converter (nunca renomeados, copiados, movidos nem excluidos); no Outro formato da para escolher o nivel de compressao.",
+  "tamanho": 1493816,
+  "sha256": "bee220828d1b4c361c16ee8cf3ecf50700b4e0f80b5dba0fa7b210e4f8920a07",
+  "commit": "e0792d2ead13f652d3ba32c049f11c8f55161781",
+  "commit_fonte": "62b18174301c5855224ecf0bb47d9041cfce0f04"
 }
