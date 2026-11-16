@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.31-teste",
-  "notas": "Pastas de jogo e compactados (.zip/.7z/.rar) aparecem na lista para Converter (nunca renomeados, copiados, movidos nem excluidos); no Outro formato da para escolher o nivel de compressao.",
-  "tamanho": 1493816,
-  "sha256": "bee220828d1b4c361c16ee8cf3ecf50700b4e0f80b5dba0fa7b210e4f8920a07",
-  "commit": "e0792d2ead13f652d3ba32c049f11c8f55161781",
-  "commit_fonte": "62b18174301c5855224ecf0bb47d9041cfce0f04"
+  "versao": "0.9.32-teste",
+  "notas": "Cheats de area extra em pagina so execucao (--x) ligam com a chave Area extra (teste), gravando pelo kernel como o onionHEN (ex.: Terminator 2D).",
+  "tamanho": 1494584,
+  "sha256": "e8894cf97feb0794525947076d239f70b3c94d3360f1805352d9a0218b604c96",
+  "commit": "26f8a0ff4e4efeac5e70c5213c0df0f53e0e3f0c",
+  "commit_fonte": "d79e6f4c9dca858cc3aa779bd66145caedb76b65"
 }
