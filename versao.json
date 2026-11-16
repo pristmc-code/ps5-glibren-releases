@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.28-teste",
-  "notas": "0.9.28-teste: sem ordenacao escolhida, a lista de jogos mostra primeiro o que precisa renomear (depois o que nao se renomeia, por ultimo o que ja esta com o nome certo).",
-  "tamanho": 1435104,
-  "sha256": "0e515e2a45c9b7bee247175da435f8951d34ac0e72b4e523cfa42d00fe4cd1c9",
-  "commit": "b94a70a5a79ed8a7c4d76e3127c37aab5cc7d81e",
-  "commit_fonte": "b740f8f857540f9d017bacc7356ef517a68f37e1"
+  "versao": "0.9.29-teste",
+  "notas": "Botao Internet: abre o navegador do PS5 no Google para navegar (dialogo do celular e atalho na tela do PS5).",
+  "tamanho": 1435632,
+  "sha256": "e1ce351950f934cb274cc0b628cf4a3c0b68ef52686911fb764f249696e6ca5b",
+  "commit": "f6d23f893601326df2b1e907bd683e5efee71804",
+  "commit_fonte": "d3cd3b58dc1e2638b419a2c1b2e7df9a59e0822d"
 }
