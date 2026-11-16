@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.32-teste",
-  "notas": "Cheats de area extra em pagina so execucao (--x) ligam com a chave Area extra (teste), gravando pelo kernel como o onionHEN (ex.: Terminator 2D).",
-  "tamanho": 1494584,
-  "sha256": "e8894cf97feb0794525947076d239f70b3c94d3360f1805352d9a0218b604c96",
-  "commit": "26f8a0ff4e4efeac5e70c5213c0df0f53e0e3f0c",
-  "commit_fonte": "d79e6f4c9dca858cc3aa779bd66145caedb76b65"
+  "versao": "0.9.33-teste",
+  "notas": "Payloads acompanhados pelo GitHub: PS5 Dump Forge, kraken-mount, ShadowKraken (experimental), tela cheia do navegador e PrefBar instalam e atualizam pela ultima release do GitHub, com o SHA-256 conferido pelo digest da API (sem digest nao instala), versao anterior guardada para voltar e botao Procurar atualizacoes. Cada payload mostra se esta rodando agora (e a versao); kraken-mount e ShadowKraken pedem confirmacao porque nao rodam junto com o ShadowMount+. A notificacao ao carregar mostra a versao.",
+  "tamanho": 1546144,
+  "sha256": "14061f49c37a903eaa0a3c3cc44273a8c027232dae79396d36eff4d6a05d6b5e",
+  "commit": "591aa3c5070f2608b82720812817ac6457ec9da0",
+  "commit_fonte": "a843759647b2c16915340d453903a750a4fc90e3"
 }
