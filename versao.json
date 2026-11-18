@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.38-teste",
-  "notas": "Versao mais nova tambem dos jogos de PS4 (firmware de PS4 como referencia); consulta pelo celular ou PC, o PS5 nunca fala com a Sony",
-  "tamanho": 1587704,
-  "sha256": "7234eeae0591ce8cb9534bc70956f63795c17d6328dc92c446537e6dc3f52a7e",
-  "commit": "23e83fb6fe74a1860808638a5b1c190a4e545a12",
-  "commit_fonte": "e3967652b86617c1619b53049041c1e35461c6c2"
+  "versao": "0.9.39-teste",
+  "notas": "Pagina Payloads: no limite de consultas ao GitHub usa a ultima resposta boa (Dados de HH:MM) ou mostra o motivo no lugar do botao",
+  "tamanho": 1589392,
+  "sha256": "5218a165b54700fb625fe7285501c355d8a2b39641ee0e75e144896652cb9c56",
+  "commit": "b6f0b17ae4957f9d7c3d8e34b5056567cdd669aa",
+  "commit_fonte": "89384c8818c90d11bdc3e1b528fa8377732caeab"
 }
