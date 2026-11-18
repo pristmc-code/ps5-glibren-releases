@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.36-teste",
-  "notas": "0.9.36-teste: depois de converter, o original vai para <disco>/BACKUP/<jogo>/ (a mesma pasta e o marcador da Jobe, que mostra e apaga esses originais); RAR em volumes vai inteiro; jogo aberto ou montado pelo ShadowMount+ = o original fica e a janela Conversoes avisa, com o botao Mover agora; chave para desligar na janela Conversoes",
-  "tamanho": 1579632,
-  "sha256": "6c44cd7d1149812122b570bd51714e26f5feb2c74e9771265cac8b4e17e574a5",
-  "commit": "d7de442b87b844d5a217434dbd80556a68d80273",
-  "commit_fonte": "295f5cd22689c46749ca8d0291c60e8aefc8aefe"
+  "versao": "0.9.37-teste",
+  "notas": "Versao de cada jogo na lista e aviso de versao mais nova na Sony (consulta feita pelo celular ou PC; o PS5 nunca fala com a Sony)",
+  "tamanho": 1586824,
+  "sha256": "7e6e92a4facf2a057f4ceac517d8018bc6b87e9983f36cf79210056cacaebbd5",
+  "commit": "17f92321c1d08872c0633865e2830c210f3dde68",
+  "commit_fonte": "2206997cf5695dec9ef7f7b090dcdf030605018e"
 }
