@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.35-teste",
-  "notas": "0.9.35-teste: payload novo ZhiThemes na pagina Payloads (temas na tela inicial do PS5, alpha, so pre-release; instalar, atualizar, ativar e rodando agora com a versao); cada payload ganha o atalho para a pagina do projeto no GitHub",
-  "tamanho": 1551664,
-  "sha256": "5ad561bbab41b5d696ade07bbcb2a70cbec160fd1402b355aa33be878432f569",
-  "commit": "23eaeeda5a41e9a770f5963b4dec9a17459598f5",
-  "commit_fonte": "b9dc9ad5482b0fa8ff3736e97a1f3425edc0afc8"
+  "versao": "0.9.36-teste",
+  "notas": "0.9.36-teste: depois de converter, o original vai para <disco>/BACKUP/<jogo>/ (a mesma pasta e o marcador da Jobe, que mostra e apaga esses originais); RAR em volumes vai inteiro; jogo aberto ou montado pelo ShadowMount+ = o original fica e a janela Conversoes avisa, com o botao Mover agora; chave para desligar na janela Conversoes",
+  "tamanho": 1579632,
+  "sha256": "6c44cd7d1149812122b570bd51714e26f5feb2c74e9771265cac8b4e17e574a5",
+  "commit": "d7de442b87b844d5a217434dbd80556a68d80273",
+  "commit_fonte": "295f5cd22689c46749ca8d0291c60e8aefc8aefe"
 }
