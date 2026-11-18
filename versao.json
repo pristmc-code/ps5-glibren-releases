@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.34-teste",
-  "notas": "0.9.34-teste: repositorio do GitHub que sumiu (404) mostra 'indisponivel' sem erro (cache de 24 h); ShadowKraken removido do GitHub (some se nao instalado; instalado fica para Ativar/Remover); payload novo BlueV (som em Bluetooth); cheats que precisam criar area nova explicam: use o onionHEN",
-  "tamanho": 1550240,
-  "sha256": "a4cb1f699328ed1ef06e5426d58e7b6ce1370c6c189c8e80a1783a5af7400247",
-  "commit": "867463b530d7434c47bc2cfac6278c5666ce9e2b",
-  "commit_fonte": "06a8a2bc1d26066d566282ed4c688763f03f30db"
+  "versao": "0.9.35-teste",
+  "notas": "0.9.35-teste: payload novo ZhiThemes na pagina Payloads (temas na tela inicial do PS5, alpha, so pre-release; instalar, atualizar, ativar e rodando agora com a versao); cada payload ganha o atalho para a pagina do projeto no GitHub",
+  "tamanho": 1551664,
+  "sha256": "5ad561bbab41b5d696ade07bbcb2a70cbec160fd1402b355aa33be878432f569",
+  "commit": "23eaeeda5a41e9a770f5963b4dec9a17459598f5",
+  "commit_fonte": "b9dc9ad5482b0fa8ff3736e97a1f3425edc0afc8"
 }
