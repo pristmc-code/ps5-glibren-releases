@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.37-teste",
-  "notas": "Versao de cada jogo na lista e aviso de versao mais nova na Sony (consulta feita pelo celular ou PC; o PS5 nunca fala com a Sony)",
-  "tamanho": 1586824,
-  "sha256": "7e6e92a4facf2a057f4ceac517d8018bc6b87e9983f36cf79210056cacaebbd5",
-  "commit": "17f92321c1d08872c0633865e2830c210f3dde68",
-  "commit_fonte": "2206997cf5695dec9ef7f7b090dcdf030605018e"
+  "versao": "0.9.38-teste",
+  "notas": "Versao mais nova tambem dos jogos de PS4 (firmware de PS4 como referencia); consulta pelo celular ou PC, o PS5 nunca fala com a Sony",
+  "tamanho": 1587704,
+  "sha256": "7234eeae0591ce8cb9534bc70956f63795c17d6328dc92c446537e6dc3f52a7e",
+  "commit": "23e83fb6fe74a1860808638a5b1c190a4e545a12",
+  "commit_fonte": "e3967652b86617c1619b53049041c1e35461c6c2"
 }
