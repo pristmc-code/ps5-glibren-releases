@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.40-teste",
-  "notas": "Cheats: area extra que o jogo nao tem criada pelo MemDBG (payload aberto, porta 9020) + MemDBG na pagina Payloads",
-  "tamanho": 1626560,
-  "sha256": "63163f9bb5778ae36642a0fc132b7e671429dbef82e9d62a9fb1d7c31fa2818f",
-  "commit": "a5c9ff0bd1b1e0211a5cc02da366f4346ddc5352",
-  "commit_fonte": "e6001119b28e6b823cb814305ae19b184f84e01b"
+  "versao": "0.9.41-teste",
+  "notas": "Instalar .pkg pelo Dump Forge + carregar payloads ao iniciar (kstuff no maximo uma vez por boot) + kstuff e ShadowKraken de arquivo",
+  "tamanho": 1692872,
+  "sha256": "957c021fea9fbbedfb5f37c2783d5d18c0927681446cda86e916f20a0042386f",
+  "commit": "b74d0878f7e224f5ecb6b6a5d1a80165199ee898",
+  "commit_fonte": "4f5b30240e736d832b17c1cf8a774d797c8fd8ad"
 }
