@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.43-teste",
-  "notas": "Aviso do TITAN CORE (roda junto com o ShadowKraken ou o kstuff) e bytes de cheat no diagnostico",
-  "tamanho": 1695296,
-  "sha256": "ad4fe96878c1bb1e12eab8b291ce3bd878702ac20d947db8f02a0b897576916f",
-  "commit": "0634b4bf0e114e8231e9be7cda177344b4505fb6",
-  "commit_fonte": "173e318d9fe4c4e407c01c1e6b829a9dfce7cb0f"
+  "versao": "0.9.44-teste",
+  "notas": "Instalar de arquivo navegando nas pastas do PS5 (como a escolha das pastas de jogos)",
+  "tamanho": 1699440,
+  "sha256": "07859675ef5cd648c6d36821b1b7f0bce8e474fb65fb7f558832c416daf6de39",
+  "commit": "b415520f4dc28dabb3f3b28721d74767772bb92f",
+  "commit_fonte": "f6f52f5fca8eada4b4bbc9e7f9e46756209bc351"
 }
