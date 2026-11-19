@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.44-teste",
-  "notas": "Instalar de arquivo navegando nas pastas do PS5 (como a escolha das pastas de jogos)",
-  "tamanho": 1699440,
-  "sha256": "07859675ef5cd648c6d36821b1b7f0bce8e474fb65fb7f558832c416daf6de39",
-  "commit": "b415520f4dc28dabb3f3b28721d74767772bb92f",
-  "commit_fonte": "f6f52f5fca8eada4b4bbc9e7f9e46756209bc351"
+  "versao": "0.9.45-teste",
+  "notas": "Instalar de arquivo (ShadowKraken, kstuff): novo botao Enviar deste celular/PC, que manda o .elf escolhido no aparelho direto para o glibren (ate 40 MB), com as mesmas conferencias do arquivo do PS5.",
+  "tamanho": 1719600,
+  "sha256": "8a377f374439ef8e511f9e6e6b5196e3044efd168f4223ff8250c8e70fd7b55d",
+  "commit": "ceaf955ab948732f7e37cfa18f1dde11e4c51c10",
+  "commit_fonte": "76c9d49985c78883a981664421fd717e863e83b5"
 }
