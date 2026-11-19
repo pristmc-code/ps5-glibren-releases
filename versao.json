@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.41-teste",
-  "notas": "Instalar .pkg pelo Dump Forge + carregar payloads ao iniciar (kstuff no maximo uma vez por boot) + kstuff e ShadowKraken de arquivo",
+  "versao": "0.9.42-teste",
+  "notas": "Enviar diagnostico leva os logs do ShadowKraken e do kraken-mount",
   "tamanho": 1692872,
-  "sha256": "957c021fea9fbbedfb5f37c2783d5d18c0927681446cda86e916f20a0042386f",
-  "commit": "b74d0878f7e224f5ecb6b6a5d1a80165199ee898",
-  "commit_fonte": "4f5b30240e736d832b17c1cf8a774d797c8fd8ad"
+  "sha256": "549b7f5e5e78ebd6cc72733f503cc2b743b54a93243e6ef41fdc69c18e2b712b",
+  "commit": "1dc2fde39f67b4227d43c3f30ad04c10e0c9063f",
+  "commit_fonte": "8bf048a0e66cb294b31477e5d386d1503639ec2e"
 }
