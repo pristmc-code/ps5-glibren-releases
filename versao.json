@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.48-teste",
-  "notas": "Conversoes mostram o tamanho original e o convertido com a porcentagem; a lista de conversoes nao se perde ao atualizar o glibren; pasta de jogo ganha Excluir e Mover (no mesmo disco).",
-  "tamanho": 1752040,
-  "sha256": "0dc278f5df429406da1d98a8e8d2e0768b43fbafddafd254916f1bde8d74189f",
-  "commit": "c9b39ac9c4807f42d522ea8dff9a31e4a4931ba9",
-  "commit_fonte": "03e515eceaf017e3aef59606fbd914d72ad61a0b"
+  "versao": "0.9.49-teste",
+  "notas": "Originais das conversoes vao soltos para <disco>/backup/ (minusculo) e aparecem na lista com Mover e Excluir; a pasta BACKUP antiga e arrumada sozinha ao iniciar.",
+  "tamanho": 1770072,
+  "sha256": "aab62dfd2644b20afdcd4580c13dc9fbbb906c184c2f3ed904d329a0f8c51519",
+  "commit": "5fe86dc8002d56fea85bd16e6c40d49562e09705",
+  "commit_fonte": "03aab200d1bd6853fb084a0934c99da6dc021f87"
 }
