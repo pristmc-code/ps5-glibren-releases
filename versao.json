@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.47-teste",
-  "notas": "Conversoes: a tela mostra a porcentagem e a etapa; os GB aparecem como soma das etapas (umas 4 vezes o jogo), nao como o tamanho do jogo.",
-  "tamanho": 1728032,
-  "sha256": "3d22c945afa846bd569961c9cdfab944822eafdf059569034e6391b3b892ae75",
-  "commit": "9968b773266ac0af7ffcbbd41d23683c34f7386f",
-  "commit_fonte": "a13fe66b1988cb6702db9ca01c06583b2729c0a0"
+  "versao": "0.9.48-teste",
+  "notas": "Conversoes mostram o tamanho original e o convertido com a porcentagem; a lista de conversoes nao se perde ao atualizar o glibren; pasta de jogo ganha Excluir e Mover (no mesmo disco).",
+  "tamanho": 1752040,
+  "sha256": "0dc278f5df429406da1d98a8e8d2e0768b43fbafddafd254916f1bde8d74189f",
+  "commit": "c9b39ac9c4807f42d522ea8dff9a31e4a4931ba9",
+  "commit_fonte": "03e515eceaf017e3aef59606fbd914d72ad61a0b"
 }
