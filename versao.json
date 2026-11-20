@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.45-teste",
-  "notas": "Instalar de arquivo (ShadowKraken, kstuff): novo botao Enviar deste celular/PC, que manda o .elf escolhido no aparelho direto para o glibren (ate 40 MB), com as mesmas conferencias do arquivo do PS5.",
-  "tamanho": 1719600,
-  "sha256": "8a377f374439ef8e511f9e6e6b5196e3044efd168f4223ff8250c8e70fd7b55d",
-  "commit": "ceaf955ab948732f7e37cfa18f1dde11e4c51c10",
-  "commit_fonte": "76c9d49985c78883a981664421fd717e863e83b5"
+  "versao": "0.9.46-teste",
+  "notas": "Pagina Payloads: o ShadowKraken vem primeiro da lista, com borda azul e o selo Montador de jogos, para achar mais facil.",
+  "tamanho": 1722128,
+  "sha256": "87318acadab428a6ea8f3408ed0263c2d764b56521c74211d1e8c93bad5704fa",
+  "commit": "16bb6a5eb86cbf90a3c61b916f0482e48fef711c",
+  "commit_fonte": "b3ab349caa5111b891130021d0c4b441ba23434b"
 }
