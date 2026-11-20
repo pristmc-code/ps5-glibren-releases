@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.46-teste",
-  "notas": "Pagina Payloads: o ShadowKraken vem primeiro da lista, com borda azul e o selo Montador de jogos, para achar mais facil.",
-  "tamanho": 1722128,
-  "sha256": "87318acadab428a6ea8f3408ed0263c2d764b56521c74211d1e8c93bad5704fa",
-  "commit": "16bb6a5eb86cbf90a3c61b916f0482e48fef711c",
-  "commit_fonte": "b3ab349caa5111b891130021d0c4b441ba23434b"
+  "versao": "0.9.47-teste",
+  "notas": "Conversoes: a tela mostra a porcentagem e a etapa; os GB aparecem como soma das etapas (umas 4 vezes o jogo), nao como o tamanho do jogo.",
+  "tamanho": 1728032,
+  "sha256": "3d22c945afa846bd569961c9cdfab944822eafdf059569034e6391b3b892ae75",
+  "commit": "9968b773266ac0af7ffcbbd41d23683c34f7386f",
+  "commit_fonte": "a13fe66b1988cb6702db9ca01c06583b2729c0a0"
 }
