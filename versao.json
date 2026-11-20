@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.49-teste",
-  "notas": "Originais das conversoes vao soltos para <disco>/backup/ (minusculo) e aparecem na lista com Mover e Excluir; a pasta BACKUP antiga e arrumada sozinha ao iniciar.",
+  "versao": "0.9.50-teste",
+  "notas": "O glibren nao mexe mais na pasta BACKUP da Jobe: os originais das conversoes ficam soltos em <disco>/backup (minusculo) e aparecem na lista.",
   "tamanho": 1770072,
-  "sha256": "aab62dfd2644b20afdcd4580c13dc9fbbb906c184c2f3ed904d329a0f8c51519",
-  "commit": "5fe86dc8002d56fea85bd16e6c40d49562e09705",
-  "commit_fonte": "03aab200d1bd6853fb084a0934c99da6dc021f87"
+  "sha256": "ffeac75c695e6270e81afc1f2b01c7451ae651aedc414a140b9dc742275fb08a",
+  "commit": "62523c9cb71ce8468b0fc988778c9549b597b5e0",
+  "commit_fonte": "eeb0e2cb1da7f1d9bc163956281222fd29edc504"
 }
