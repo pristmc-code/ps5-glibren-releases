@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.50-teste",
-  "notas": "O glibren nao mexe mais na pasta BACKUP da Jobe: os originais das conversoes ficam soltos em <disco>/backup (minusculo) e aparecem na lista.",
-  "tamanho": 1770072,
-  "sha256": "ffeac75c695e6270e81afc1f2b01c7451ae651aedc414a140b9dc742275fb08a",
-  "commit": "62523c9cb71ce8468b0fc988778c9549b597b5e0",
-  "commit_fonte": "eeb0e2cb1da7f1d9bc163956281222fd29edc504"
+  "versao": "0.9.51-teste",
+  "notas": "Pagina Payloads, cartao do ShadowKraken: troca do ampr-emu-ng por um build de teste (.sprx) sem FTP, volta ao embutido, e as copias do registro do build de depuracao vao no diagnostico.",
+  "tamanho": 1783624,
+  "sha256": "fbce452b1a8a59c4ec9ea6f2a77b4bd1f8d08ffed5ea7304c471fc0c544eb94e",
+  "commit": "ebfb43f86a28a80395d502b3fe14184c0a311e3d",
+  "commit_fonte": "f379297a0fceddb83e6288ca3616586db949272e"
 }
