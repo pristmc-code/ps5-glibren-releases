@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.53-teste",
-  "notas": "Cheats: as de area extra ligadas pelo glibren agora aparecem ligadas e o botao desliga (antes: 'a area extra do salto nao esta zerada'). Area extra ja usada por outro programa mostra o motivo.",
-  "tamanho": 1804488,
-  "sha256": "e95ab518a9038b0a2609684a16b2cda95f5bfe6a78bac8a232005bf3f07f0f03",
-  "commit": "12d0f61f043d19f5e779932ce1e013a32f8077f5",
-  "commit_fonte": "d6c5cee65ecbc4435600426fd768e22c18fd9732"
+  "versao": "0.9.54-teste",
+  "notas": "Pastas do ShadowKraken na pagina Payloads: ver as pastas onde ele procura jogos (se existem e o espaco do disco), adicionar uma pasta pela janela de pastas e remover com confirmacao, tudo pela API do proprio ShadowKraken (so as pastas mudam; os outros ajustes dele ficam como estao). Avisos de pasta dentro de outra, .pkg de PS4 da JB, backup e jogos que saem da biblioteca. So pelo celular/PC pareado. A marca Ativo das pastas do glibren passa a seguir a lista do ShadowKraken.",
+  "tamanho": 1828704,
+  "sha256": "436820e1a34757be03360d226a1a7cd74052b6051fe5d58c11ac6df44dc67fa2",
+  "commit": "2fea5b3cc2fcf0144891d28b4dbda94d7ef15c99",
+  "commit_fonte": "cb20d7ff5e5c0f01f5c407ab5e020f6470f0ed25"
 }
