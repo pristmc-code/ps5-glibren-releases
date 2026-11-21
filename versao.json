@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.54-teste",
-  "notas": "Pastas do ShadowKraken na pagina Payloads: ver as pastas onde ele procura jogos (se existem e o espaco do disco), adicionar uma pasta pela janela de pastas e remover com confirmacao, tudo pela API do proprio ShadowKraken (so as pastas mudam; os outros ajustes dele ficam como estao). Avisos de pasta dentro de outra, .pkg de PS4 da JB, backup e jogos que saem da biblioteca. So pelo celular/PC pareado. A marca Ativo das pastas do glibren passa a seguir a lista do ShadowKraken.",
-  "tamanho": 1828704,
-  "sha256": "436820e1a34757be03360d226a1a7cd74052b6051fe5d58c11ac6df44dc67fa2",
-  "commit": "2fea5b3cc2fcf0144891d28b4dbda94d7ef15c99",
-  "commit_fonte": "cb20d7ff5e5c0f01f5c407ab5e020f6470f0ed25"
+  "versao": "0.9.55-teste",
+  "notas": "Runtime do ampr-emu-ng (cartao do ShadowKraken na pagina Payloads): a linha principal passa a ser o NOME do arquivo escolhido (ex.: Em uso: ampr-emu-ng-pr115-f7a31de-release.sprx) e embaixo, menor: o que ele corrige (builds conhecidos: MARVEL #111, Hades #114 ou os dois), versao, release/depuracao, commit, SHA-256 curto, desde quando e de onde veio (pasta do PS5 ou enviado do celular/PC). O glibren guarda esses dados ao instalar (pasta do glibren, nada a mais na pasta de emuladores do ShadowKraken); o guardado para voltar leva os dados junto, inclusive no Voltar ao embutido. Arquivo posto pelo FTP ou antes desta versao: nome desconhecido, ou provavelmente <nome> quando o SHA-256 e de um build conhecido. Os dados vao no ampr-teste.json do diagnostico.",
+  "tamanho": 1832336,
+  "sha256": "08f908abb9a21e66cf2d37160d2f66a9827b522a6e3b94092c339b0fb971f8dd",
+  "commit": "224d041dee73391cb652a0cc814f19e5df305b32",
+  "commit_fonte": "0cc66b80fbfa066c89823f523840d9bc82c8496c"
 }
