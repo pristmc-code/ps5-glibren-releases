@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.55-teste",
-  "notas": "Runtime do ampr-emu-ng (cartao do ShadowKraken na pagina Payloads): a linha principal passa a ser o NOME do arquivo escolhido (ex.: Em uso: ampr-emu-ng-pr115-f7a31de-release.sprx) e embaixo, menor: o que ele corrige (builds conhecidos: MARVEL #111, Hades #114 ou os dois), versao, release/depuracao, commit, SHA-256 curto, desde quando e de onde veio (pasta do PS5 ou enviado do celular/PC). O glibren guarda esses dados ao instalar (pasta do glibren, nada a mais na pasta de emuladores do ShadowKraken); o guardado para voltar leva os dados junto, inclusive no Voltar ao embutido. Arquivo posto pelo FTP ou antes desta versao: nome desconhecido, ou provavelmente <nome> quando o SHA-256 e de um build conhecido. Os dados vao no ampr-teste.json do diagnostico.",
-  "tamanho": 1832336,
-  "sha256": "08f908abb9a21e66cf2d37160d2f66a9827b522a6e3b94092c339b0fb971f8dd",
-  "commit": "224d041dee73391cb652a0cc814f19e5df305b32",
-  "commit_fonte": "0cc66b80fbfa066c89823f523840d9bc82c8496c"
+  "versao": "0.9.56-teste",
+  "notas": "Chave 'Rodar tambem os jogos instalados pelo sistema' no cartao Pastas do ShadowKraken (pagina Payloads): liga/desliga o [fpkg] installed do config.ini do ShadowKraken (Dev.35 ou mais novo) sem FTP. O glibren grava so essa linha (mantem o resto do arquivo, temporario + rename como o proprio ShadowKraken) e o ShadowKraken recarrega sozinho. Aceita o formato antigo (fpkg_installed) e linhas repetidas. Muda pelo celular ou PC pareado; o estado aparece tambem na tela do PS5.",
+  "tamanho": 1852600,
+  "sha256": "a4db0d8a03e00453e4820e363b81a90af8ca83a47473df2cfed078dde52f5439",
+  "commit": "efab6466cd5617d153ad3ceefb4904a60fa4b98e",
+  "commit_fonte": "1957c37483c72d732f5822f7d7af9638c9bd02f3"
 }
