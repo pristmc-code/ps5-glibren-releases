@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.52-teste",
-  "notas": "Teste de internet: resposta recusada pela Cloudflare (429) nao conta mais como download; mensagem clara quando a Cloudflare limita o PS5; o automatico tenta o proximo servidor da lista; o relogio usa o GitHub primeiro.",
-  "tamanho": 1786304,
-  "sha256": "21283155f9f5d7938113618fa68427345a84615394a0e117c92db8f6cdc83986",
-  "commit": "228eacffdba9d6b12575b97dd088f9108dc7196e",
-  "commit_fonte": "b3e6818b3d749f6e7d009f45756db1411e7b5780"
+  "versao": "0.9.53-teste",
+  "notas": "Cheats: as de area extra ligadas pelo glibren agora aparecem ligadas e o botao desliga (antes: 'a area extra do salto nao esta zerada'). Area extra ja usada por outro programa mostra o motivo.",
+  "tamanho": 1804488,
+  "sha256": "e95ab518a9038b0a2609684a16b2cda95f5bfe6a78bac8a232005bf3f07f0f03",
+  "commit": "12d0f61f043d19f5e779932ce1e013a32f8077f5",
+  "commit_fonte": "d6c5cee65ecbc4435600426fd768e22c18fd9732"
 }
