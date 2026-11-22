@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.61-teste",
-  "notas": "Pagina Payloads, cartao do ShadowKraken: novo bloco Preparando jogos. Quando entram .pkg novos, mostra o que o ShadowKraken esta fazendo: jogo N de M e o nome, a etapa (abrindo o .pkg, extraindo os arquivos com quantos arquivos e MB e o arquivo atual, conferindo o .pkg inteiro com porcentagem e barra), velocidade, tempo do jogo e quanto falta na conferencia, quantos jogos faltam no lote (com tempo aproximado), e a lista do lote com o estado e a duracao de cada um (pronto, falhou, adiado, na fila). Atualiza a cada 2 s enquanto ele prepara. Le a rota de andamento do ShadowKraken (Dev.37 em diante) ou, nas versoes antigas, o debug.log dele (com o debug ligado). Pelo celular, PC ou pelo proprio PS5.",
-  "tamanho": 1940680,
-  "sha256": "12041b8c954b0994e485c0ad07860e83cc1f1ef409966ee8c12c0622e3e13219",
-  "commit": "6d923a4449db74befb1379a2c3e3ce590b8bfee6",
-  "commit_fonte": "fdeb404625fb58939179ac53681207c0c8bd92ed"
+  "versao": "0.9.62-teste",
+  "notas": "Build de depuracao do ampr-emu-ng (cartao do ShadowKraken, Runtime do ampr-emu-ng): o glibren agora guarda um registro (trace) por abertura de jogo, atualizado enquanto o jogo roda, e fica com os das ultimas 10 aberturas (antes eram 5 copias e um jogo longo empurrava os outros para fora). Todos vao no Enviar diagnostico.",
+  "tamanho": 1940840,
+  "sha256": "68d670bc4ead1ae730d335e90ac5852c4a3f810a86c7968a44a4e3c79e04babd",
+  "commit": "205306e11ec19dd4cc6b049e1c2e40fd744c97f1",
+  "commit_fonte": "e8fbc5228c7c5283e6b657ecf33ea5a91858e873"
 }
