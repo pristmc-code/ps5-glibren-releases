@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.56-teste",
-  "notas": "Chave 'Rodar tambem os jogos instalados pelo sistema' no cartao Pastas do ShadowKraken (pagina Payloads): liga/desliga o [fpkg] installed do config.ini do ShadowKraken (Dev.35 ou mais novo) sem FTP. O glibren grava so essa linha (mantem o resto do arquivo, temporario + rename como o proprio ShadowKraken) e o ShadowKraken recarrega sozinho. Aceita o formato antigo (fpkg_installed) e linhas repetidas. Muda pelo celular ou PC pareado; o estado aparece tambem na tela do PS5.",
-  "tamanho": 1852600,
-  "sha256": "a4db0d8a03e00453e4820e363b81a90af8ca83a47473df2cfed078dde52f5439",
-  "commit": "efab6466cd5617d153ad3ceefb4904a60fa4b98e",
-  "commit_fonte": "1957c37483c72d732f5822f7d7af9638c9bd02f3"
+  "versao": "0.9.57-teste",
+  "notas": "Novo bloco ampr-emu-ng nos backports no cartao do ShadowKraken (pagina Payloads): para jogo .exfat ou pasta com backport, poe no fakelib do backport o mesmo ampr-emu-ng que o ShadowKraken usa (o build de teste, senao o embutido), sem FTP. Sem esse arquivo o ShadowKraken nao troca o AMPR do jogo e ele usa o do sistema (ex.: Horizon Zero Dawn Remastered fechando com 0xa002c502). O libSceAmpr.sprx que ja estava no backport fica guardado e volta no Tirar. Vale na proxima abertura do jogo. So pelo celular ou PC pareado; a lista vai junto no diagnostico.",
+  "tamanho": 1865616,
+  "sha256": "1ee515f805ab817f5c105529015ea6960f17c899f52b621fe806c28698d1808d",
+  "commit": "dc83218c134866046517dc30193b367e75f83c98",
+  "commit_fonte": "69cbfef62c05cac71bc40244622ac22fd10cc71b"
 }
