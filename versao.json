@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.59-teste",
-  "notas": "Novo item CoreDump Dumper (jamesst20/PS5-CoreDump-Dumper, MIT) na pagina Payloads: instalar e ativar pelo GitHub, como os outros. Ele guarda o CoreDump quando um jogo trava (o PS5 apaga em segundos). No cartao dele aparecem os dumps guardados em /data/ps5-coredump-dumper, com Enviar ao Claude (vai para o repositorio privado de diagnosticos com a mesma chave do Enviar diagnostico, em partes de 4 MB, com indice SHA-256; limite 768 MB por dump) e Apagar. Pelo celular, PC ou pelo proprio PS5.",
-  "tamanho": 1918040,
-  "sha256": "b8d17983dc4deca6b28e7af441bd26ac2cb3592f85e35dd448024afb8377b271",
-  "commit": "fc8c14ec6f22a6008b7a63a89aa6063c21639375",
-  "commit_fonte": "a4224e21d5c1cd2828964c84d92359ce34a5b1f8"
+  "versao": "0.9.60-teste",
+  "notas": "Pagina Payloads, cartao do CoreDump Dumper: nova secao Jogo congelado com o botao Derrubar o jogo aberto. Quando um jogo fica parado (tela preta, sem travar), o botao pede ao ampr-emu-ng de depuracao (porta 9090 do proprio PS5, pagina /crash) que derrube o jogo de proposito, e o CoreDump Dumper guarda o dump para mandar ao Claude. O botao so fica livre com um jogo aberto usando o ampr-emu-ng de depuracao; recusa se o CoreDump Dumper nao estiver ativo.",
+  "tamanho": 1925232,
+  "sha256": "8232ce12c025e4234abf0c218843a613c0872d40b264623a1e6dcbe9d75f3c29",
+  "commit": "5a1b3a0f4d974dd16926616738aedc5c34c95f1f",
+  "commit_fonte": "55789de527f86721851a2528e54d6e6ce70e8e02"
 }
