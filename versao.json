@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.57-teste",
-  "notas": "Novo bloco ampr-emu-ng nos backports no cartao do ShadowKraken (pagina Payloads): para jogo .exfat ou pasta com backport, poe no fakelib do backport o mesmo ampr-emu-ng que o ShadowKraken usa (o build de teste, senao o embutido), sem FTP. Sem esse arquivo o ShadowKraken nao troca o AMPR do jogo e ele usa o do sistema (ex.: Horizon Zero Dawn Remastered fechando com 0xa002c502). O libSceAmpr.sprx que ja estava no backport fica guardado e volta no Tirar. Vale na proxima abertura do jogo. So pelo celular ou PC pareado; a lista vai junto no diagnostico.",
-  "tamanho": 1865616,
-  "sha256": "1ee515f805ab817f5c105529015ea6960f17c899f52b621fe806c28698d1808d",
-  "commit": "dc83218c134866046517dc30193b367e75f83c98",
-  "commit_fonte": "69cbfef62c05cac71bc40244622ac22fd10cc71b"
+  "versao": "0.9.58-teste",
+  "notas": "Novo bloco Ajustes por jogo do ShadowKraken no cartao do ShadowKraken (pagina Payloads), com duas listas por codigo de jogo. ampr-emu-ng em jogo que nao e .pkg: para .exfat ou pasta com o backport dentro do proprio jogo (ex.: Horizon Zero Dawn Remastered fechando com 0xa002c502), o ShadowKraken Dev.36 poe o mesmo ampr-emu-ng dos .pkg no fakelib do jogo, sem mexer no jogo. PlayGo desligado: o ShadowKraken nao poe o stub do PlayGo no jogo. Vale na proxima abertura do jogo. So pelo celular ou PC pareado; as listas vao junto no diagnostico.",
+  "tamanho": 1888856,
+  "sha256": "3e4a65bc2d96674654a064f5dd6e53503a07b2c09405e2a8f70e64ac10b31774",
+  "commit": "978346401d3d9b725aaa25aac473325a873fe935",
+  "commit_fonte": "0a72d1d59655c97e215d51fd48728a09251b9279"
 }
