@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.60-teste",
-  "notas": "Pagina Payloads, cartao do CoreDump Dumper: nova secao Jogo congelado com o botao Derrubar o jogo aberto. Quando um jogo fica parado (tela preta, sem travar), o botao pede ao ampr-emu-ng de depuracao (porta 9090 do proprio PS5, pagina /crash) que derrube o jogo de proposito, e o CoreDump Dumper guarda o dump para mandar ao Claude. O botao so fica livre com um jogo aberto usando o ampr-emu-ng de depuracao; recusa se o CoreDump Dumper nao estiver ativo.",
-  "tamanho": 1925232,
-  "sha256": "8232ce12c025e4234abf0c218843a613c0872d40b264623a1e6dcbe9d75f3c29",
-  "commit": "5a1b3a0f4d974dd16926616738aedc5c34c95f1f",
-  "commit_fonte": "55789de527f86721851a2528e54d6e6ce70e8e02"
+  "versao": "0.9.61-teste",
+  "notas": "Pagina Payloads, cartao do ShadowKraken: novo bloco Preparando jogos. Quando entram .pkg novos, mostra o que o ShadowKraken esta fazendo: jogo N de M e o nome, a etapa (abrindo o .pkg, extraindo os arquivos com quantos arquivos e MB e o arquivo atual, conferindo o .pkg inteiro com porcentagem e barra), velocidade, tempo do jogo e quanto falta na conferencia, quantos jogos faltam no lote (com tempo aproximado), e a lista do lote com o estado e a duracao de cada um (pronto, falhou, adiado, na fila). Atualiza a cada 2 s enquanto ele prepara. Le a rota de andamento do ShadowKraken (Dev.37 em diante) ou, nas versoes antigas, o debug.log dele (com o debug ligado). Pelo celular, PC ou pelo proprio PS5.",
+  "tamanho": 1940680,
+  "sha256": "12041b8c954b0994e485c0ad07860e83cc1f1ef409966ee8c12c0622e3e13219",
+  "commit": "6d923a4449db74befb1379a2c3e3ce590b8bfee6",
+  "commit_fonte": "fdeb404625fb58939179ac53681207c0c8bd92ed"
 }
