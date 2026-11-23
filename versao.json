@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.62-teste",
-  "notas": "Build de depuracao do ampr-emu-ng (cartao do ShadowKraken, Runtime do ampr-emu-ng): o glibren agora guarda um registro (trace) por abertura de jogo, atualizado enquanto o jogo roda, e fica com os das ultimas 10 aberturas (antes eram 5 copias e um jogo longo empurrava os outros para fora). Todos vao no Enviar diagnostico.",
-  "tamanho": 1940840,
-  "sha256": "68d670bc4ead1ae730d335e90ac5852c4a3f810a86c7968a44a4e3c79e04babd",
-  "commit": "205306e11ec19dd4cc6b049e1c2e40fd744c97f1",
-  "commit_fonte": "e8fbc5228c7c5283e6b657ecf33ea5a91858e873"
+  "versao": "0.9.63-teste",
+  "notas": "velocidade do ampr-emu-ng (ajustes ao vivo, trecho com FPS e temperatura, sugestoes, cronometro, teste de disco) e diagnostico sem cortes, em partes",
+  "tamanho": 2056304,
+  "sha256": "f18e35f7cf8e200c78e41454b5869efdaeebd0e752bc3ebfaecd5579009b6c21",
+  "commit": "111f44a793398742bfe602840de354455e92dda7",
+  "commit_fonte": "e884e79da3f90e7e04d712e176b73598fcc47db2"
 }
