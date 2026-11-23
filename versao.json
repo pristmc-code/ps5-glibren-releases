@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.63-teste",
-  "notas": "velocidade do ampr-emu-ng (ajustes ao vivo, trecho com FPS e temperatura, sugestoes, cronometro, teste de disco) e diagnostico sem cortes, em partes",
-  "tamanho": 2056304,
-  "sha256": "f18e35f7cf8e200c78e41454b5869efdaeebd0e752bc3ebfaecd5579009b6c21",
-  "commit": "111f44a793398742bfe602840de354455e92dda7",
-  "commit_fonte": "e884e79da3f90e7e04d712e176b73598fcc47db2"
+  "versao": "0.9.64-teste",
+  "notas": "bateria automatica de testes (troca de versao por rename, controle virtual com KillApp de reserva) e teste-pad/websrv na pagina Payloads",
+  "tamanho": 2277136,
+  "sha256": "e46465dd15c10e1b66c0195201b834c02351ccb998f798f6edc5bd853714393d",
+  "commit": "5973f77c1ca853e906e9f7d2084435fd099027f7",
+  "commit_fonte": "ab2892746fc216fa9bb697fada0d1a4388605ce5"
 }
