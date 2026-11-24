@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.69-teste",
-  "notas": "0.9.69-teste: o andamento da bateria no celular diz qual bateria, qual teste e qual ajuste esta rodando (ex.: Bateria 1 de 2 (pkg) - teste 3 de 8 - cache 256 MiB).",
-  "tamanho": 2327440,
-  "sha256": "a796ed9b20c3e17ebea72fe134338852bdb47a03c97249d6aa6858fa0f6ab1fd",
-  "commit": "2930ef112a1eab35c19f60033ba226fe1fa11854",
-  "commit_fonte": "27b938080822c066a79bb9822e7dd87748f259d6"
+  "versao": "0.9.70-teste",
+  "notas": "Fila PKG na pagina Payloads: converte para .pkg (Dump Forge) os .exfat que ainda nao tem .pkg e leva .exfat e .pkg para o disco externo (PS5exfat, PS5pkg, PS4pkg), um jogo por vez, com copia conferida pelo SHA-256.",
+  "tamanho": 2378432,
+  "sha256": "f7110ecabdecb3e87f4e16b3c865a3749778ac6c82e66fe0922f754699bd4b99",
+  "commit": "55ade6edd9dec66e9d2c4479fe4ad6f6ad2c08b5",
+  "commit_fonte": "e0a9b9d37e102b425b98ba7d192132c691284288"
 }
