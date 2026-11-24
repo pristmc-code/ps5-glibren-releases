@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.68-teste",
-  "notas": "0.9.68-teste: bateria automatica com o controle virtual que funcionou no PS5 (vincula ao usuario e aperta X na janela 'Quem esta usando este controle?' antes de fechar o jogo) e que acha sozinha as versoes de cada jogo pelo codigo (pkg, exfat, -zstd, -lz4, pasta) nas pastas ativa e guardada.",
-  "tamanho": 2329440,
-  "sha256": "f0a2201055f22b0328eeef9f581223b73a0235806942348fffcf50b893660a41",
-  "commit": "a5415c56c76c3a1e2bb2a808ee39dfaacbb98b3e",
-  "commit_fonte": "6f0d352b2bc1a7fe96c5639eb00942cc936889f1"
+  "versao": "0.9.69-teste",
+  "notas": "0.9.69-teste: o andamento da bateria no celular diz qual bateria, qual teste e qual ajuste esta rodando (ex.: Bateria 1 de 2 (pkg) - teste 3 de 8 - cache 256 MiB).",
+  "tamanho": 2327440,
+  "sha256": "a796ed9b20c3e17ebea72fe134338852bdb47a03c97249d6aa6858fa0f6ab1fd",
+  "commit": "2930ef112a1eab35c19f60033ba226fe1fa11854",
+  "commit_fonte": "27b938080822c066a79bb9822e7dd87748f259d6"
 }
