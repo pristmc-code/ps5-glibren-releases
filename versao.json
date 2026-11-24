@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.65-teste",
-  "notas": "0.9.65-teste: ao renomear, o nome novo mantem a marca -zstd/-lz4 (se nao couber, encurta o titulo, nunca a marca); teste-pad 1.3 na pagina Payloads (liga o controle virtual ao usuario, X escolhe o usuario e DIREITA anda: funcionou no PS5 Pro 12.00); glibren Controle 0.2: botao Enviar deste celular/PC abre o seletor de arquivos.",
-  "tamanho": 2274256,
-  "sha256": "8fbf876ba20752c59aed9d28ea82c7bc41bdcf3440cd45e90dd91c3b51cce284",
-  "commit": "79c1611eaa3b734a10906db40837264686926b00",
-  "commit_fonte": "67a151e5b23349b9488c9f2c24c724e381f7c261"
+  "versao": "0.9.66-teste",
+  "notas": "0.9.66-teste: nanoDNS (drakmor) na pagina Payloads com editor do nanodns.ini: confere o arquivo como o nanoDNS le, recusa erros, so libera enderecos da Sony confirmando, guarda a versao anterior (.bak) e tem um botao para incluir/remover a excecao das capas da Sony (image.api.playstation.com).",
+  "tamanho": 2329008,
+  "sha256": "9aa40d4d2868e24eff0371a1da0cb958a623b8af329e8fe0d57de0ae23462412",
+  "commit": "0e581f614f25ea6def0b025113769ccf86202c62",
+  "commit_fonte": "150f072b001c2f1658039a80b4770aa5596e7d31"
 }
