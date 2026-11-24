@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.70-teste",
-  "notas": "Fila PKG na pagina Payloads: converte para .pkg (Dump Forge) os .exfat que ainda nao tem .pkg e leva .exfat e .pkg para o disco externo (PS5exfat, PS5pkg, PS4pkg), um jogo por vez, com copia conferida pelo SHA-256.",
-  "tamanho": 2378432,
-  "sha256": "f7110ecabdecb3e87f4e16b3c865a3749778ac6c82e66fe0922f754699bd4b99",
-  "commit": "55ade6edd9dec66e9d2c4479fe4ad6f6ad2c08b5",
-  "commit_fonte": "e0a9b9d37e102b425b98ba7d192132c691284288"
+  "versao": "0.9.71-teste",
+  "notas": "Fila PKG: ordem so do menor para o maior jogo.",
+  "tamanho": 2378288,
+  "sha256": "20000fd2ccd37dc58cd84c4a69f7628e73497f2d19cfa75a08e158383527ace1",
+  "commit": "541773f22b83406efc0eea836b97d5574af958ac",
+  "commit_fonte": "22a157795f9bfbf4cd173eb7c4b0895d8623fd13"
 }
