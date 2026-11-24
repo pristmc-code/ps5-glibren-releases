@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.66-teste",
-  "notas": "0.9.66-teste: nanoDNS (drakmor) na pagina Payloads com editor do nanodns.ini: confere o arquivo como o nanoDNS le, recusa erros, so libera enderecos da Sony confirmando, guarda a versao anterior (.bak) e tem um botao para incluir/remover a excecao das capas da Sony (image.api.playstation.com).",
-  "tamanho": 2329008,
-  "sha256": "9aa40d4d2868e24eff0371a1da0cb958a623b8af329e8fe0d57de0ae23462412",
-  "commit": "0e581f614f25ea6def0b025113769ccf86202c62",
-  "commit_fonte": "150f072b001c2f1658039a80b4770aa5596e7d31"
+  "versao": "0.9.68-teste",
+  "notas": "0.9.68-teste: bateria automatica com o controle virtual que funcionou no PS5 (vincula ao usuario e aperta X na janela 'Quem esta usando este controle?' antes de fechar o jogo) e que acha sozinha as versoes de cada jogo pelo codigo (pkg, exfat, -zstd, -lz4, pasta) nas pastas ativa e guardada.",
+  "tamanho": 2329440,
+  "sha256": "f0a2201055f22b0328eeef9f581223b73a0235806942348fffcf50b893660a41",
+  "commit": "a5415c56c76c3a1e2bb2a808ee39dfaacbb98b3e",
+  "commit_fonte": "6f0d352b2bc1a7fe96c5639eb00942cc936889f1"
 }
