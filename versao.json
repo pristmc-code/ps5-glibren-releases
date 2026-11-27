@@ -1,8 +1,8 @@
 {
-  "versao": "0.9.71-teste",
-  "notas": "Fila PKG: ordem so do menor para o maior jogo.",
+  "versao": "0.9.72-teste",
+  "notas": "Pagina Payloads: novo item Disk Space Analyzer (igorwojda/ps5-disk-space-analyzer, GPL-3.0), acompanhado pelo GitHub com SHA-256. Mostra para onde foi o espaco dos discos (interno, M.2 e USB), o tamanho real de cada jogo e os maiores arquivos, pela aba Midia ou pela porta 8833. Aviso na pagina: beta; apagar desinstala jogos e mexe na lista do PS5; nao usar durante a Fila PKG.",
   "tamanho": 2378288,
-  "sha256": "20000fd2ccd37dc58cd84c4a69f7628e73497f2d19cfa75a08e158383527ace1",
-  "commit": "541773f22b83406efc0eea836b97d5574af958ac",
-  "commit_fonte": "22a157795f9bfbf4cd173eb7c4b0895d8623fd13"
+  "sha256": "97ae85685c9e92453670880321634964f207205c17d2529a50a6b359d5da85fe",
+  "commit": "bcebc3138dabb19c2aeea9894e3fce6be7a2b06f",
+  "commit_fonte": "4cf3bd931189dc6249720cd6e369ac230b866832"
 }
